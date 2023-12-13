@@ -1,0 +1,44 @@
+/* style.css */
+
+/* Body styling */
+body {
+  font-family: 'Coquette', sans-serif; /* Use the Coquette font */
+  background-color: #f8f8f8; /* Light gray background */
+  color: #333; /* Dark text color */
+  margin: 0;
+  padding: 0;
+}
+
+/* Header styling */
+header {
+  background-color: #ff99cc; /* Pink background for the header */
+  color: white; /* White text color */
+  text-align: center;
+  padding: 20px;
+}
+
+/* Coquette Poem styling */
+.coquette-poem {
+  margin: 20px;
+  text-align: center;
+  font-style: italic;
+}
+
+/* Footer styling */
+footer {
+  background-color: #333; /* Dark gray background for the footer */
+  color: white; /* White text color */
+  text-align: center;
+  padding: 10px;
+}
+
+/* Footer links styling */
+footer a {
+  color: #ff99cc; /* Pink color for links */
+  text-decoration: none; /* Remove underlines from links */
+}
+
+/* Hover effect for links */
+footer a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
